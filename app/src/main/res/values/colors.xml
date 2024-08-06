@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FF808080</color>
+    <color name="dark_gray">#3A3A3A</color>
+    <color name="orange">#FBC103</color>
+
+    <color name="light_blue">#ADD8E6</color>
+    <color name="light_green">#90EE90</color>
+    <color name="light_yellow">#FFFFE0</color>
+    <color name="peach">#FFDAB9</color>
+    <color name="pale_turquoise">#AFEEEE</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="mint_cream">#F5FFFA</color>
+    <color name="honeydew">#F0FFF0</color>
+
+    <color name="sky_blue">#87CEEB</color>
+    <color name="light_coral">#F08080</color>
+    <color name="peach_puff">#FFDAB9</color>
+    <color name="misty_rose">#FFE4E1</color>
+    <color name="powder_blue">#B0E0E6</color>
+    <color name="salmon">#FA8072</color>
+    <color name="light_salmon">#FFA07A</color>
+    <color name="linen">#FAF0E6</color>
+    <color name="seashell">#FFF5EE</color>
+    <color name="alice_blue">#F0F8FF</color>
+    <color name="light_pink">#FFB6C1</color>
+    <color name="light_sky_blue">#87CEFA</color>
+    <color name="thistle">#D8BFD8</color>
+    <color name="lavender_blush">#FFF0F5</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="floral_white">#FFFAF0</color>
+
+    <color name="brown">#654321</color>
+
+
+</resources>

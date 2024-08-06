@@ -1,0 +1,29 @@
+<resources>
+    <array name="card_background_colors">
+        <item>@color/light_blue</item>
+        <item>@color/light_green</item>
+        <item>@color/light_yellow</item>
+        <item>@color/peach</item>
+        <item>@color/pale_turquoise</item>
+        <item>@color/lavender</item>
+        <item>@color/light_gray</item>
+        <item>@color/mint_cream</item>
+        <item>@color/honeydew</item>
+        <item>@color/sky_blue</item>
+        <item>@color/light_coral</item>
+        <item>@color/peach_puff</item>
+        <item>@color/misty_rose</item>
+        <item>@color/powder_blue</item>
+        <item>@color/salmon</item>
+        <item>@color/light_salmon</item>
+        <item>@color/linen</item>
+        <item>@color/seashell</item>
+        <item>@color/alice_blue</item>
+        <item>@color/light_pink</item>
+        <item>@color/light_sky_blue</item>
+        <item>@color/thistle</item>
+        <item>@color/lavender_blush</item>
+        <item>@color/snow</item>
+        <item>@color/floral_white</item>
+    </array>
+</resources>
