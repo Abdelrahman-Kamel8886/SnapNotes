@@ -17,6 +17,23 @@ SnapNotes is a powerful and intuitive notes application designed to help users q
 - **SpannableString:** For applying text styles to notes.
 
 ## Screenshots
+### Home (Empty)
+![Screenshot_2024-08-06-16-01-17-73_b403f5a5c1b22ca4f71dda0d8334dbb8](https://github.com/user-attachments/assets/3012ffa9-2b26-4c98-86eb-cfe524785498)
+### Home(List View)
+![Screenshot_2024-08-06-20-58-57-19_b403f5a5c1b22ca4f71dda0d8334dbb8](https://github.com/user-attachments/assets/e10e5b82-d748-46c6-b7fb-636ddcc04023)
+### Home(Grid View)
+![Screenshot_2024-08-06-20-59-25-37_b403f5a5c1b22ca4f71dda0d8334dbb8](https://github.com/user-attachments/assets/658cf6be-59fd-4894-be1f-3725519d0e40)
+### Home (Search)
+![Screenshot_2024-08-06-20-59-39-26_b403f5a5c1b22ca4f71dda0d8334dbb8](https://github.com/user-attachments/assets/43b669c7-b8cc-43fc-b529-15f45f21fa74)
+### Home (Delete Note)
+![Screenshot_2024-08-06-16-10-31-45_b403f5a5c1b22ca4f71dda0d8334dbb8](https://github.com/user-attachments/assets/5ac50cae-6a79-43c7-a29c-7f83b6cc7fea)
+### Add Note
+![Screenshot_2024-08-06-16-09-33-39_b403f5a5c1b22ca4f71dda0d8334dbb8](https://github.com/user-attachments/assets/d87ef987-77bd-4b97-8faf-44be1d780556)
+### Modify Note
+![Screenshot_2024-08-06-20-59-04-30_b403f5a5c1b22ca4f71dda0d8334dbb8](https://github.com/user-attachments/assets/74f77c6d-23e4-488f-a5c8-a8e87162d2c1)
+![Screenshot_2024-08-06-20-59-14-60_b403f5a5c1b22ca4f71dda0d8334dbb8](https://github.com/user-attachments/assets/e89b5076-0edc-4050-b8e3-842782d7d71a)
+
+
 
 ## Installation
 To get started with SnapNotes, follow these steps:
